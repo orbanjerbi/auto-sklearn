@@ -20,4 +20,4 @@ pynisher>=0.4.2
 pyrfr>=0.7,<0.8
 smac==0.8
 
-trains
+trains==0.9.3
